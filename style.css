@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  list-style: none;
+}
+
+.con{
+  width: 1240px;
+  margin: 0 auto;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  align-items: center;
+}
+
+ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;  
+}
+
+
+
+
+
+
+
+/* git config --global user.name  */
+/* git config --global user.email */
+
+
+/* git init */
